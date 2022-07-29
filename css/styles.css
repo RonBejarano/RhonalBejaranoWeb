@@ -3034,6 +3034,20 @@ textarea.form-control-lg {
   background-color: #bf9600;
   border-color: #ffc800;
 }
+
+.btn-rhonal {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #ffc800;
+}
+
+    .btn-rhonal:hover {
+        color: #fff;
+        background-color: #d9aa00;
+        border-color: #cca000;
+    }
+
+
 .btn-primary:hover {
   color: #fff;
   background-color: #d9aa00;
